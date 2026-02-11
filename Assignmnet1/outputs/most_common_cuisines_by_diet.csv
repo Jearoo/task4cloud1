@@ -1,0 +1,16 @@
+Diet_type,Cuisine_type,count
+dash,american,639
+dash,world,234
+dash,mediterranean,176
+keto,american,663
+keto,italian,234
+keto,french,163
+mediterranean,mediterranean,1274
+mediterranean,italian,148
+mediterranean,american,145
+paleo,american,535
+paleo,italian,171
+paleo,french,154
+vegan,american,925
+vegan,mediterranean,99
+vegan,italian,81

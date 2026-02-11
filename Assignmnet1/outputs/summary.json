@@ -1,0 +1,34 @@
+{
+  "rows": 7806,
+  "columns": [
+    "Diet_type",
+    "Recipe_name",
+    "Cuisine_type",
+    "Protein(g)",
+    "Carbs(g)",
+    "Fat(g)",
+    "Extraction_day",
+    "Extraction_time"
+  ],
+  "highest_avg_protein_diet": {
+    "diet_type": "keto",
+    "avg_protein_g": 101.267
+  },
+  "highest_single_recipe_by_protein": {
+    "diet_type": "paleo",
+    "recipe_name": "Swiss Paleo\u2019s Homemade Italian & Chorizo Sausage",
+    "cuisine_type": "italian",
+    "protein_g": 1273.61,
+    "carbs_g": 83.34,
+    "fat_g": 1608.54
+  },
+  "outputs": {
+    "avg_macros_by_diet_csv": "outputs/avg_macros_by_diet.csv",
+    "top5_protein_by_diet_csv": "outputs/top5_protein_by_diet.csv",
+    "most_common_cuisines_by_diet_csv": "outputs/most_common_cuisines_by_diet.csv",
+    "metrics_with_ratios_csv": "outputs/metrics_with_ratios.csv",
+    "bar_chart": "outputs/charts/avg_macros_by_diet_bar.png",
+    "heatmap_chart": "outputs/charts/avg_macros_by_diet_heatmap.png",
+    "scatter_chart": "outputs/charts/protein_vs_carbs_scatter.png"
+  }
+}
